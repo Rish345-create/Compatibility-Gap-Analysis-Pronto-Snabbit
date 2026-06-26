@@ -3,7 +3,7 @@ This folder contains workflow diagrams used in the research paper.
 ## 📊 Proposed Workflow
 
 ### 1. Overall Research Workflow
-![Overall Research Workflow](workflow.png)
+![Overall Research Workflow](WORKFLOW.png)
 
 ### 2. End User – Househelp Workflow
 ![End User–Househelp Workflow](ENDUSER_HOUSEHELP%20WORKFLOW.png)
