@@ -3,10 +3,10 @@ This folder contains workflow diagrams used in the research paper.
 ## 📊 Proposed Workflow
 
 ### Overall Compatibility Workflow
-![Overall Workflow](workflow.png)
+![Overall Compatibility Workflow](ENDUSER_HOUSEHELP%20WORKFLOW.png)
 
-### End User Workflow
-![End User Workflow](user-workflow.png)
+### End User Prototype
+![End User Prototype](ENDUSER_PROTOTYPE.png)
 
-### Househelp Workflow
-![Househelp Workflow](househelp-workflow.png)
+### Househelp Prototype
+![Househelp Prototype](HOUSEHELP_PROTOTYPE.png)
