@@ -2,11 +2,14 @@
 This folder contains workflow diagrams used in the research paper.
 ## 📊 Proposed Workflow
 
-### Overall Compatibility Workflow
-![Overall Compatibility Workflow](ENDUSER_HOUSEHELP%20WORKFLOW.png)
+### 1. Overall Research Workflow
+![Overall Research Workflow](workflow.png)
 
-### End User Prototype
+### 2. End User – Househelp Workflow
+![End User–Househelp Workflow](ENDUSER_HOUSEHELP%20WORKFLOW.png)
+
+### 3. End User Prototype
 ![End User Prototype](ENDUSER_PROTOTYPE.png)
 
-### Househelp Prototype
+### 4. Househelp Prototype
 ![Househelp Prototype](HOUSEHELP_PROTOTYPE.png)
